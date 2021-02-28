@@ -246,6 +246,6 @@ input:checked + .slider:before {
 }
 
 .article-list{
-background-color: #537895;
-background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+background-color: #EBF5FB ;
+
 }

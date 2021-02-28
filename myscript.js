@@ -1,9 +1,9 @@
  function myFunction1() {
-            let element7 = document.getElementById("content1");
+            let element7 = document.getElementById("texto1");
             element7.classList.toggle("dark-mode");
 
-             let element8 = document.getElementById("drop");
-            element8.classList.toggle("dark-mode");
+            //  let element8 = document.getElementById("drop");
+            // element8["style"].fontSize=20;
 
 
 
@@ -28,7 +28,7 @@
 
         }
 
-           function outputbox01(vol) {
+                 function outputbox01(vol) {
             document.querySelector('#fontsize').value = vol;
         }
 

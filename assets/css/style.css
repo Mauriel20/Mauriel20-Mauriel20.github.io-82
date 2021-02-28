@@ -12,6 +12,7 @@ html{
   font-size:20px;
 width: 100%;
 
+
 }
 
 .article-clean .intro {
@@ -94,7 +95,7 @@ nav {
     z-index: 100;
     position: fixed;
     width: 100%;
-    margin-top: 10px;
+    margin-top: 12px;
    
 }   
 
@@ -119,6 +120,7 @@ nav {
 .nav-icon:hover,
 .search-icon:hover {
     opacity: 0.7;
+    color: white;
 }
 
 .nav-links {
@@ -252,8 +254,9 @@ background: linear-gradient(184deg, rgba(95,110,109,1) 13%, rgba(190,187,182,1) 
 .dropdown {
   position: inherit;
   display: inline-block;
-  margin-top: 70px;
+  margin-top: 0px;
   margin-left: 8%;
+  margin-bottom: 150px;
  
 }
 
@@ -264,7 +267,7 @@ background: linear-gradient(184deg, rgba(95,110,109,1) 13%, rgba(190,187,182,1) 
 background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+
 }
 
 .dropdown-content a {
